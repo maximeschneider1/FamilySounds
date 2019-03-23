@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C661E3B8223804C000BA7749 /* ZinVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C661E3B7223804C000BA7749 /* ZinVC.swift */; };
+		C661E3BA223804EA00BA7749 /* SusiVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C661E3B9223804E900BA7749 /* SusiVC.swift */; };
+		C661E3BD2238053A00BA7749 /* Susi Oupsi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C661E3BB2238053A00BA7749 /* Susi Oupsi.mp3 */; };
+		C661E3BE2238053A00BA7749 /* Zin Rire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C661E3BC2238053A00BA7749 /* Zin Rire.mp3 */; };
 		C669EC7F22122447001F6546 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669EC7E22122447001F6546 /* AppDelegate.swift */; };
 		C669EC8122122447001F6546 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669EC8022122447001F6546 /* ViewController.swift */; };
 		C669EC8422122447001F6546 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C669EC8222122447001F6546 /* Main.storyboard */; };
@@ -14,6 +18,20 @@
 		C669EC8922122449001F6546 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C669EC8722122449001F6546 /* LaunchScreen.storyboard */; };
 		C669EC9422122449001F6546 /* Soundbox_app_v7Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669EC9322122449001F6546 /* Soundbox_app_v7Tests.swift */; };
 		C669EC9F22122449001F6546 /* Soundbox_app_v7UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669EC9E22122449001F6546 /* Soundbox_app_v7UITests.swift */; };
+		C669ECBE22130EAB001F6546 /* SideMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669ECBD22130EAB001F6546 /* SideMenuVC.swift */; };
+		C669ECC022131B90001F6546 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669ECBF22131B90001F6546 /* MainVC.swift */; };
+		C669ECD722135064001F6546 /* MarianneVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669ECD622135064001F6546 /* MarianneVC.swift */; };
+		C669ECD9221360B0001F6546 /* LouisVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C669ECD8221360B0001F6546 /* LouisVC.swift */; };
+		C69B9B1C2225AF59007F3746 /* Louis Dégustation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B122225AF58007F3746 /* Louis Dégustation.mp3 */; };
+		C69B9B1D2225AF59007F3746 /* Louis Bordel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B132225AF58007F3746 /* Louis Bordel.mp3 */; };
+		C69B9B1E2225AF59007F3746 /* Mamir Tuer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B142225AF58007F3746 /* Mamir Tuer.mp3 */; };
+		C69B9B1F2225AF59007F3746 /* Mamir Bière 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B152225AF58007F3746 /* Mamir Bière 2.mp3 */; };
+		C69B9B202225AF59007F3746 /* Louis Lit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B162225AF58007F3746 /* Louis Lit.mp3 */; };
+		C69B9B212225AF59007F3746 /* Louis Cmb.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B172225AF58007F3746 /* Louis Cmb.mp3 */; };
+		C69B9B222225AF59007F3746 /* Mamir Bière 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B182225AF59007F3746 /* Mamir Bière 1.mp3 */; };
+		C69B9B232225AF59007F3746 /* Louis Baisé.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B192225AF59007F3746 /* Louis Baisé.mp3 */; };
+		C69B9B242225AF59007F3746 /* Mamir Manger.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B1A2225AF59007F3746 /* Mamir Manger.mp3 */; };
+		C69B9B252225AF59007F3746 /* Mamir Comment.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C69B9B1B2225AF59007F3746 /* Mamir Comment.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +52,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C661E3B7223804C000BA7749 /* ZinVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZinVC.swift; sourceTree = "<group>"; };
+		C661E3B9223804E900BA7749 /* SusiVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SusiVC.swift; sourceTree = "<group>"; };
+		C661E3BB2238053A00BA7749 /* Susi Oupsi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Susi Oupsi.mp3"; path = "../../../../../Downloads/Susi Oupsi.mp3"; sourceTree = "<group>"; };
+		C661E3BC2238053A00BA7749 /* Zin Rire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Zin Rire.mp3"; path = "../../../../../Downloads/Zin Rire.mp3"; sourceTree = "<group>"; };
 		C669EC7B22122447001F6546 /* Soundbox-app-v7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Soundbox-app-v7.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C669EC7E22122447001F6546 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C669EC8022122447001F6546 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +69,20 @@
 		C669EC9A22122449001F6546 /* Soundbox-app-v7UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Soundbox-app-v7UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C669EC9E22122449001F6546 /* Soundbox_app_v7UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Soundbox_app_v7UITests.swift; sourceTree = "<group>"; };
 		C669ECA022122449001F6546 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C669ECBD22130EAB001F6546 /* SideMenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuVC.swift; sourceTree = "<group>"; };
+		C669ECBF22131B90001F6546 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		C669ECD622135064001F6546 /* MarianneVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarianneVC.swift; sourceTree = "<group>"; };
+		C669ECD8221360B0001F6546 /* LouisVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LouisVC.swift; sourceTree = "<group>"; };
+		C69B9B122225AF58007F3746 /* Louis Dégustation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Louis Dégustation.mp3"; path = "../../../ASSETS/Louis Dégustation.mp3"; sourceTree = "<group>"; };
+		C69B9B132225AF58007F3746 /* Louis Bordel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Louis Bordel.mp3"; path = "../../../ASSETS/Louis Bordel.mp3"; sourceTree = "<group>"; };
+		C69B9B142225AF58007F3746 /* Mamir Tuer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mamir Tuer.mp3"; path = "../../../ASSETS/Mamir Tuer.mp3"; sourceTree = "<group>"; };
+		C69B9B152225AF58007F3746 /* Mamir Bière 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mamir Bière 2.mp3"; path = "../../../ASSETS/Mamir Bière 2.mp3"; sourceTree = "<group>"; };
+		C69B9B162225AF58007F3746 /* Louis Lit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Louis Lit.mp3"; path = "../../../ASSETS/Louis Lit.mp3"; sourceTree = "<group>"; };
+		C69B9B172225AF58007F3746 /* Louis Cmb.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Louis Cmb.mp3"; path = "../../../ASSETS/Louis Cmb.mp3"; sourceTree = "<group>"; };
+		C69B9B182225AF59007F3746 /* Mamir Bière 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mamir Bière 1.mp3"; path = "../../../ASSETS/Mamir Bière 1.mp3"; sourceTree = "<group>"; };
+		C69B9B192225AF59007F3746 /* Louis Baisé.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Louis Baisé.mp3"; path = "../../../ASSETS/Louis Baisé.mp3"; sourceTree = "<group>"; };
+		C69B9B1A2225AF59007F3746 /* Mamir Manger.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mamir Manger.mp3"; path = "../../../ASSETS/Mamir Manger.mp3"; sourceTree = "<group>"; };
+		C69B9B1B2225AF59007F3746 /* Mamir Comment.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mamir Comment.mp3"; path = "../../../ASSETS/Mamir Comment.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,10 +133,11 @@
 		C669EC7D22122447001F6546 /* Soundbox-app-v7 */ = {
 			isa = PBXGroup;
 			children = (
-				C669EC7E22122447001F6546 /* AppDelegate.swift */,
-				C669EC8022122447001F6546 /* ViewController.swift */,
-				C669EC8222122447001F6546 /* Main.storyboard */,
+				C669ECBC22123CFA001F6546 /* Controller */,
+				C669ECC122134FA0001F6546 /* Sounds */,
 				C669EC8522122449001F6546 /* Assets.xcassets */,
+				C669EC7E22122447001F6546 /* AppDelegate.swift */,
+				C669EC8222122447001F6546 /* Main.storyboard */,
 				C669EC8722122449001F6546 /* LaunchScreen.storyboard */,
 				C669EC8A22122449001F6546 /* Info.plist */,
 			);
@@ -123,6 +160,39 @@
 				C669ECA022122449001F6546 /* Info.plist */,
 			);
 			path = "Soundbox-app-v7UITests";
+			sourceTree = "<group>";
+		};
+		C669ECBC22123CFA001F6546 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				C669EC8022122447001F6546 /* ViewController.swift */,
+				C669ECBD22130EAB001F6546 /* SideMenuVC.swift */,
+				C669ECD622135064001F6546 /* MarianneVC.swift */,
+				C661E3B7223804C000BA7749 /* ZinVC.swift */,
+				C661E3B9223804E900BA7749 /* SusiVC.swift */,
+				C669ECBF22131B90001F6546 /* MainVC.swift */,
+				C669ECD8221360B0001F6546 /* LouisVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		C669ECC122134FA0001F6546 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				C661E3BB2238053A00BA7749 /* Susi Oupsi.mp3 */,
+				C661E3BC2238053A00BA7749 /* Zin Rire.mp3 */,
+				C69B9B192225AF59007F3746 /* Louis Baisé.mp3 */,
+				C69B9B132225AF58007F3746 /* Louis Bordel.mp3 */,
+				C69B9B172225AF58007F3746 /* Louis Cmb.mp3 */,
+				C69B9B122225AF58007F3746 /* Louis Dégustation.mp3 */,
+				C69B9B162225AF58007F3746 /* Louis Lit.mp3 */,
+				C69B9B182225AF59007F3746 /* Mamir Bière 1.mp3 */,
+				C69B9B152225AF58007F3746 /* Mamir Bière 2.mp3 */,
+				C69B9B1B2225AF59007F3746 /* Mamir Comment.mp3 */,
+				C69B9B1A2225AF59007F3746 /* Mamir Manger.mp3 */,
+				C69B9B142225AF58007F3746 /* Mamir Tuer.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +299,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C661E3BD2238053A00BA7749 /* Susi Oupsi.mp3 in Resources */,
+				C69B9B1E2225AF59007F3746 /* Mamir Tuer.mp3 in Resources */,
+				C69B9B1F2225AF59007F3746 /* Mamir Bière 2.mp3 in Resources */,
+				C69B9B212225AF59007F3746 /* Louis Cmb.mp3 in Resources */,
+				C69B9B232225AF59007F3746 /* Louis Baisé.mp3 in Resources */,
+				C69B9B1D2225AF59007F3746 /* Louis Bordel.mp3 in Resources */,
 				C669EC8922122449001F6546 /* LaunchScreen.storyboard in Resources */,
+				C69B9B222225AF59007F3746 /* Mamir Bière 1.mp3 in Resources */,
+				C69B9B252225AF59007F3746 /* Mamir Comment.mp3 in Resources */,
+				C69B9B242225AF59007F3746 /* Mamir Manger.mp3 in Resources */,
 				C669EC8622122449001F6546 /* Assets.xcassets in Resources */,
 				C669EC8422122447001F6546 /* Main.storyboard in Resources */,
+				C661E3BE2238053A00BA7749 /* Zin Rire.mp3 in Resources */,
+				C69B9B1C2225AF59007F3746 /* Louis Dégustation.mp3 in Resources */,
+				C69B9B202225AF59007F3746 /* Louis Lit.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +339,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				C669EC8122122447001F6546 /* ViewController.swift in Sources */,
+				C669ECC022131B90001F6546 /* MainVC.swift in Sources */,
 				C669EC7F22122447001F6546 /* AppDelegate.swift in Sources */,
+				C661E3B8223804C000BA7749 /* ZinVC.swift in Sources */,
+				C661E3BA223804EA00BA7749 /* SusiVC.swift in Sources */,
+				C669ECD9221360B0001F6546 /* LouisVC.swift in Sources */,
+				C669ECBE22130EAB001F6546 /* SideMenuVC.swift in Sources */,
+				C669ECD722135064001F6546 /* MarianneVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
